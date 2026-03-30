@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LasPinas.aternos.me:38165",
+    "ip": "LasPinas.aternos.me",
     "port": 38165,
     "version": "1.21.1"
   },
